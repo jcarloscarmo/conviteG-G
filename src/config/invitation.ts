@@ -24,7 +24,7 @@ export const INVITATION_CONFIG = {
   // ============================================================================
   whatsappNumber: '5512996392801',
   whatsappMessage:
-    'Olá! Gostaria de confirmar minha presença na festa de XV Anos da Gabi e Grazi (16/12/2026)! 💙✨\n\nMeu nome completo: ',
+    'Olá! Gostaria de confirmar minha presença na festa de XV Anos da Gabi e Grazi (16/12/2026)!\n\nMeu nome completo: ',
 
   // ============================================================================
   // DADOS DAS ANIVERSARIANTES E TEXTOS DO CONVITE (IMAGEM ESTÁTICA)
