@@ -22,7 +22,7 @@ export const INVITATION_CONFIG = {
   // CONFIGURAÇÃO DO WHATSAPP (CONFIRMAÇÃO DE PRESENÇA)
   // Altere apenas os números abaixo (DDI 55 + DDD + Número, sem espaços/traços)
   // ============================================================================
-  whatsappNumber: '5512996392801',
+  whatsappNumber: '5512981426554',
   whatsappMessage:
     'Olá! Gostaria de confirmar minha presença na festa de XV Anos da Gabi e Grazi (16/12/2026)!\n\nMeu nome completo: ',
 
